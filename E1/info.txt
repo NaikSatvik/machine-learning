@@ -1,0 +1,11 @@
+1. Local dataset
+
+2. Data Cleaning
+    2.1 ? -> np.nan
+    2.2 list of attributes and missing values in that attributes
+    2.3 - Numeric
+            - Default, mean, min, max
+        - Categorical
+            - element which has maximum occurences of that values
+            - mode()
+
