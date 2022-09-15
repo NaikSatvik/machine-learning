@@ -1,0 +1,10 @@
+Download Dataset.
+Feature Extraction.
+Divide training & testing dataset.
+Model:- MLR (Multi Linear Regression model)
+	   Polynomial
+Calculate MSE & R^2.
+
+Condition of better model:- 
+	- MSE should be less.
+	- R^2 should be more.
